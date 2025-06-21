@@ -1,4 +1,5 @@
-![azure-ad](https://github.com/user-attachments/assets/e411fabd-753c-49a2-a194-a40c194f04d6)
+
+![adinazurec](https://github.com/user-attachments/assets/38fcbe98-09ad-4d4f-a814-80110136f101)
 
 <h1>Configuring On-premises Active Directory Infrastructure with Azure VMs</h1>
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
